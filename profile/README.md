@@ -1,2 +1,2 @@
 
-[Rungst](rungst.xyz) is a proprietary high-frequency algorithmic trading organization.
+[Lamaerk](lamaerk.com) is a proprietary high-frequency algorithmic trading organization.
