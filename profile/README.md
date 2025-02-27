@@ -1,2 +1,2 @@
 
-[Lamaerk](lamaerk.com) is a proprietary high-frequency algorithmic trading organization.
+Lamaerk is a proprietary algorithmic trading organization.
