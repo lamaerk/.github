@@ -1,2 +1,2 @@
 
-Lamaerk is a proprietary algorithmic trading organization.
+Research-driven crypto investment organization.
