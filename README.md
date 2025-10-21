@@ -1,2 +1,2 @@
 # .github
-A proprietary high-frequency organization.
+Research-driven crypto organization.
