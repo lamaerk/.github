@@ -1,2 +1,1 @@
-
-Research-driven crypto investment organization.
+Research-driven crypto organization.
